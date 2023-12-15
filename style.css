@@ -1,0 +1,13 @@
+.color-title{
+    font-style: italic; font-weight: normal; text-align: end;
+    margin-left: 1000px; 
+}
+
+#fontweight {
+    font-size:small;  font-weight: 300;
+}
+
+.arrange{
+
+    display: flex;
+}
